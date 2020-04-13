@@ -4,7 +4,7 @@ Project 3: Implementing Observer Pattern
 
 ## Inspiration 
 
-For this real-world example of the Observer pattern, we used a simple implementation of a band's updates webfeed and its subscribers. In our implementation, the Concrete Observers are BandSubscribers, the Concrete Subject is BandUpdatesWebFeed, the State is Update, and the Subject is BandUpdates. When run, the console shows the Observer pattern is use with the notifications that can be seen by the band's subscribers.
+For this real-world example of the Observer pattern, we used a simple implementation of a band's updates webfeed and its subscribers. In our implementation, the Concrete Observers is BandSubscribers, the Concrete Subject is BandUpdatesWebFeed, the State is Update, and the Subject is BandUpdates. When run, the console shows the Observer pattern is use with the notifications that can be seen by the band's subscribers.
 
 ## How To Run the Code
 
