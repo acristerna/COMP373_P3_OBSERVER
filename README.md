@@ -18,6 +18,8 @@ Before implementing the Observer pattern, the problem we would have faced would 
 
 By implementing the Observer pattern, the band would be able to make an update and then through the pattern, the band subscribers would all be notified through the Observer interface. By implementing this pattern, it keeps the program extensible with having the ability to increase the subscriber base easily and allowing the band to notify subscribers all at once.
 
+![](UML%20Diagram/Observer.png)
+
 ## Applications Used 
 
 * Draw.IO (ULM Model)
