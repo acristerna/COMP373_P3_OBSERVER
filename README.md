@@ -10,7 +10,7 @@ For this real-world example of the Observer pattern, we used a simple implementa
 
 To run the code, clone the repository to your own development environment and run Main (in Main folder).
 
-## What Is The Problem Identified In This Project? s
+## What Is The Problem Identified In This Project? 
 
 Before implementing the Observer pattern, the problem we would have faced would have been having to update each individual subscriber per notification. In the real-world this would have taken a lot of time since many band's have thousands of subscribers. 
 
